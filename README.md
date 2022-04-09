@@ -1,2 +1,2 @@
-# GUI-TicTacToe.py
+# GUI_TicTacToe
 Tic tac toe with gui
